@@ -13,7 +13,7 @@
 /*loader 2  */
 .loader { position: relative; width: 150px; height: 150px; display: block; overflow: hidden; }
 .loader div { height: 100%; }
-.loader2, .loader2 div { border-radius: 50%; padding: 8px; border: 2px solid transparent; -webkit-animation: rotate linear 3.5s infinite; animation: rotate linear 3.5s infinite; border-top-color: #48DCA8; border-left-color: rgba(66, 66, 66, 1); border-right-color: rgba(66, 66, 66, 1); }
+.loader2, .loader2 div { border-radius: 50%; padding: 8px; border: 2px solid transparent; -webkit-animation: rotate linear 3.5s infinite; animation: rotate linear 3.5s infinite; border-top-color: #c45641; border-left-color: rgba(66, 66, 66, 1); border-right-color: rgba(66, 66, 66, 1); }
 .loader, .loader * { will-change: transform; }
 @-webkit-keyframes rotate {
   0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
