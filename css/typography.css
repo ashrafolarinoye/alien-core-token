@@ -56,12 +56,12 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid var(--iq-light-border); b
 /*----------------------------------------------------------------------
                         Buttons
 -----------------------------------------------------------------------*/
-.button { color: var(--white); cursor: pointer; padding: 10px 20px; border: none; font-weight: 600; font-size: 16px; position: relative; background: #48DCA8; font-family: 'poppins'; display: inline-block; -webkit-border-radius: 90px; -moz-border-radius: 8px; border-radius: 8px; }
+.button { color: var(--white); cursor: pointer; padding: 10px 20px; border: none; font-weight: 600; font-size: 16px; position: relative; background: #c45641; font-family: 'poppins'; display: inline-block; -webkit-border-radius: 90px; -moz-border-radius: 8px; border-radius: 8px; }
 .button:hover, .button:focus { color: var(--iq-light); background: var(--white); outline: none; }
 
 /* Buttons white */
 .button.bt-white { color: var(--iq-bs-btn); background: var(--white); }
-.button.bt-white:hover, .button.bt-white:focus { color: var(--white); background: #48DCA8; outline: none; }
+.button.bt-white:hover, .button.bt-white:focus { color: var(--white); background: #e6a64f; outline: none; }
 
 /* Buttons white 2 */
 .button.bt-black { color: var(--iq-bs-btn); background: var(--white); }
